@@ -1,0 +1,2 @@
+input_video,started_at_utc,finished_at_utc,frames_processed,person_detections,temporary_track_ids_seen,elapsed_seconds,annotated_video,detection_log
+/home/jetson/Desktop/Indiran/data/output/attendai_demo_12s.mp4,2026-10-16T08:35:30+00:00,2026-10-16T08:35:40+00:00,104,261,10,9.8,/home/jetson/Desktop/Indiran/data/output/attendai_demo_12s_annotated.mp4,/home/jetson/Desktop/Indiran/results/attendai_demo_12s_detections.csv
